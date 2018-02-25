@@ -1,10 +1,6 @@
-# linear_regression_live
-This is the code for the "How to Do Linear Regression the Right Way" live session by Siraj Raval on Youtube
+# linear_regression
+This is the code for the "How to Do Linear Regression the Right Way" 
 
-
-## Overview
-
-This is the code for [this](https://youtu.be/uwwWVAgJBcM) video on Youtube by Siraj Raval. I'm using a small dataset of student test scores and the amount of hours they studied. Intuitively, there must be a relationship right? The more you study, the better your test scores should be. We're going to use [linear regression](https://onlinecourses.science.psu.edu/stat501/node/250) to prove this relationship. 
 
 Here are some helpful links:
 
@@ -33,6 +29,3 @@ Running...
 After 1000 iterations b = 0.08893651993741346, m = 1.4777440851894448, error = 112.61481011613473
    ```
 
-## Credits
-
-Credits for this code go to [mattnedrich](https://github.com/mattnedrich). I've merely created a wrapper to get people started. 
